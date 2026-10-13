@@ -7,6 +7,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -29,6 +30,7 @@ My solutions to LeetCode algorithmic problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
