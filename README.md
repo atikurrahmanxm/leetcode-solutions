@@ -12,6 +12,7 @@ My solutions to LeetCode algorithmic problems.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,4 +46,8 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
