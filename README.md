@@ -8,6 +8,7 @@ My solutions to LeetCode algorithmic problems.
 | ------- |
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +31,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
