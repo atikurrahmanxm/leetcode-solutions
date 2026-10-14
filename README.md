@@ -21,6 +21,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@ My solutions to LeetCode algorithmic problems.
 | [0009-palindrome-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Trie
 |  |
 | ------- |
