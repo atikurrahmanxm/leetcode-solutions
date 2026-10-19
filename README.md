@@ -9,6 +9,7 @@ My solutions to LeetCode algorithmic problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -41,11 +42,13 @@ My solutions to LeetCode algorithmic problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
