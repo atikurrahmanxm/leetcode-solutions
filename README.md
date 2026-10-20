@@ -18,6 +18,7 @@ My solutions to LeetCode algorithmic problems.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ My solutions to LeetCode algorithmic problems.
 | [2089-find-target-indices-after-sorting-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ My solutions to LeetCode algorithmic problems.
 | [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
 |  |
 | ------- |
@@ -146,4 +149,8 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
