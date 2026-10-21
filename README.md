@@ -65,6 +65,7 @@ My solutions to LeetCode algorithmic problems.
 | [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
