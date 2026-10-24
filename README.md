@@ -12,6 +12,7 @@ My solutions to LeetCode algorithmic problems.
 | [0016-3sum-closest](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -33,6 +34,7 @@ My solutions to LeetCode algorithmic problems.
 | [0012-integer-to-roman](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
