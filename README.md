@@ -12,6 +12,7 @@ My solutions to LeetCode algorithmic problems.
 | [0016-3sum-closest](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1929-concatenation-of-array) |
