@@ -73,6 +73,7 @@ My solutions to LeetCode algorithmic problems.
 | [0014-longest-common-prefix](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [2409-count-days-spent-together](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ My solutions to LeetCode algorithmic problems.
 | [0012-integer-to-roman](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
