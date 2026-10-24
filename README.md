@@ -75,6 +75,7 @@ My solutions to LeetCode algorithmic problems.
 | [0014-longest-common-prefix](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -96,6 +97,7 @@ My solutions to LeetCode algorithmic problems.
 | [0012-integer-to-roman](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0836-rectangle-overlap](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -180,4 +182,12 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
