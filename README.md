@@ -14,6 +14,7 @@ My solutions to LeetCode algorithmic problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -77,6 +78,7 @@ My solutions to LeetCode algorithmic problems.
 | [0015-3sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -121,6 +123,7 @@ My solutions to LeetCode algorithmic problems.
 | [0012-integer-to-roman](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
