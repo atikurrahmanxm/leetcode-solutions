@@ -12,6 +12,7 @@ My solutions to LeetCode algorithmic problems.
 | [0016-3sum-closest](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0027-remove-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -74,6 +75,7 @@ My solutions to LeetCode algorithmic problems.
 | [0018-4sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0027-remove-element) |
 | [1768-merge-strings-alternately](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
