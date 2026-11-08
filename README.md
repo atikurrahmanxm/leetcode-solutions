@@ -20,6 +20,7 @@ My solutions to LeetCode algorithmic problems.
 | [0645-set-mismatch](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1254-number-of-closed-islands](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -178,6 +179,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -243,6 +245,7 @@ My solutions to LeetCode algorithmic problems.
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
