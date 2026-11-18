@@ -115,6 +115,7 @@ My solutions to LeetCode algorithmic problems.
 | [0014-longest-common-prefix](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +130,7 @@ My solutions to LeetCode algorithmic problems.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -201,6 +203,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -242,6 +245,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Geometry
 |  |
 | ------- |
