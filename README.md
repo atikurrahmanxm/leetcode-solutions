@@ -33,6 +33,7 @@ My solutions to LeetCode algorithmic problems.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -100,6 +101,7 @@ My solutions to LeetCode algorithmic problems.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -133,6 +135,7 @@ My solutions to LeetCode algorithmic problems.
 | [0022-generate-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
