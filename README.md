@@ -121,6 +121,7 @@ My solutions to LeetCode algorithmic problems.
 | [0020-valid-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
