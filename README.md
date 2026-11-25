@@ -13,6 +13,7 @@ My solutions to LeetCode algorithmic problems.
 | [0018-4sum](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -196,6 +197,7 @@ My solutions to LeetCode algorithmic problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/atikurrahmanxm/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
